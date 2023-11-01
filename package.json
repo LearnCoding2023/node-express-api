@@ -1,7 +1,7 @@
 {
-  "name": "aws-pro",
+  "name": "node-express-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "AWS node application",
   "main": "index.js",
   "type": "module",
   "scripts": {
